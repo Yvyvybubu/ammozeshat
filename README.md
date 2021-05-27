@@ -24,7 +24,7 @@
     "لینک": "https://www.aparat.com/video/video/embed/videohash/RIXBz/vt/frame?isamp"
   },
   {
-    "عکس": "https://s19.picofile.com/file/8434862534/PicsArt_05_28_03_04_40.jpg",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/HGsJa/vt/frame?isamp"
+    "عکس": "https://s19.picofile.com/file/8434863050/PicsArt_05_28_03_28_19.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/R2FuY/vt/frame?isamp"
   }
 ]
