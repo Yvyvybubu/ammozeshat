@@ -60,7 +60,7 @@
     "لینک": "https://www.aparat.com/video/video/embed/videohash/Vn4AE/vt/frame?isamp"
   },
   {
-    "عکس": "https://s19.picofile.com/file/8434910792/PicsArt_05_28_06_41_30.jpg",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/Vn4AE/vt/frame?isamp"
+    "عکس": "https://s18.picofile.com/file/8434911668/PicsArt_05_28_06_52_43.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/UIYkr/vt/frame?isamp"
   }
 ]
