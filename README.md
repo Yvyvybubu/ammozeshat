@@ -62,5 +62,9 @@
   {
     "عکس": "https://s18.picofile.com/file/8434911668/PicsArt_05_28_06_52_43.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/UIYkr/vt/frame?isamp"
+  },
+  {
+    "عکس": "https://s18.picofile.com/file/8434915626/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B8_%DB%B1%DB%B9%DB%B4%DB%B7%DB%B2%DB%B8%DB%B4%DB%B7%DB%B5.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/weCMZ/vt/frame?isamp"
   }
 ]
