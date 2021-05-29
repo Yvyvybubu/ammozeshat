@@ -118,5 +118,10 @@
     "عکس": "https://s18.picofile.com/file/8434985650/PicsArt_05_29_01_00_04.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/z5ENB/vt/frame?isamp",
     "کد": "کدی وجود ندارد"
+  },
+  {
+    "عکس": "https://s18.picofile.com/file/8435014692/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B9_%DB%B2%DB%B0%DB%B0%DB%B1%DB%B4%DB%B8%DB%B4%DB%B9%DB%B8.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/5Y1EJ/vt/frame?isamp",
+    "کد": "av \u003d (webview1.getTitle());"
   }
 ]
