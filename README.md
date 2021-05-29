@@ -123,5 +123,10 @@
     "عکس": "https://s18.picofile.com/file/8435014692/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B9_%DB%B2%DB%B0%DB%B0%DB%B1%DB%B4%DB%B8%DB%B4%DB%B9%DB%B8.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/5Y1EJ/vt/frame?isamp",
     "کد": "av \u003d (webview1.getTitle());"
+  },
+  {
+    "عکس": "https://s19.picofile.com/file/8435016492/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B9_%DB%B2%DB%B0%DB%B0%DB%B2%DB%B0%DB%B0%DB%B5%DB%B6%DB%B5.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/WrIx6/vt/frame?isamp",
+    "کد": "av \u003d (webview1.getTitle());"
   }
 ]
