@@ -66,5 +66,13 @@
   {
     "عکس": "https://s18.picofile.com/file/8434915626/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B8_%DB%B1%DB%B9%DB%B4%DB%B7%DB%B2%DB%B8%DB%B4%DB%B7%DB%B5.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/weCMZ/vt/frame?isamp"
+  },
+  {
+    "عکس": "https://s18.picofile.com/file/8434979550/PicsArt_05_29_12_57_15.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/Q7nKo/vt/frame?isamp"
+  },
+  {
+    "عکس": "https://s18.picofile.com/file/8434980318/PicsArt_05_29_12_57_47.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/x46Fa/vt/frame?isamp"
   }
 ]
