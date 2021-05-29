@@ -115,11 +115,6 @@
     "کد": "_filePath.get((int)(0))"
   },
   {
-    "عکس": "https://s19.picofile.com/file/8434985550/PicsArt_05_29_12_59_37.jpg",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/H0ndz/vt/frame?isamp",
-    "کد": "کدی وجود ندارد"
-  },
-  {
     "عکس": "https://s18.picofile.com/file/8434985650/PicsArt_05_29_01_00_04.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/z5ENB/vt/frame?isamp",
     "کد": "کدی وجود ندارد"
