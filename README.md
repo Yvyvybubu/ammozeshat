@@ -29,7 +29,8 @@
   },
   {
     "عکس": "https://s18.picofile.com/file/8434891068/PicsArt_05_28_02_14_54.jpg",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/HGsJa/vt/frame?isamp"
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/HGsJa/vt/frame?isamp",
+    "کد": "\"file:///android_asset/نام گیف\""
   },
   {
     "عکس": "https://s19.picofile.com/file/8434891392/PicsArt_05_28_02_19_35.jpg",
