@@ -148,5 +148,10 @@
     "عکس": "https://s18.picofile.com/file/8435377718/PicsArt_06_02_01_57_50.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/tMfHj/vt/frame?isamp",
     "کد": "getWindow().getDecorView()\n  .setSystemUiVisibility(\n    View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n  );\n\n//mode by Sketchware helper"
+  },
+  {
+    "عکس": "https://s19.picofile.com/file/8435380100/PicsArt_06_02_02_23_03.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/JsfdH/vt/frame?isamp",
+    "کد": "کدی وجود ندارد"
   }
 ]
